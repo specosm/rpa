@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\UiPath Studio\UiRobot.exe" /file:"C:\app\bot\1\Main.xaml"
