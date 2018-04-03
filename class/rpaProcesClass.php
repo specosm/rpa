@@ -217,7 +217,7 @@ class rpaProcesClass implements rpaProcesClassImpl
     /**
      * @param mixed $page
      */
-    public function setPage($page): void
+    public function setPage($page)
     {
         $this->page = $page;
     }
@@ -233,7 +233,7 @@ class rpaProcesClass implements rpaProcesClassImpl
     /**
      * @param mixed $per_page
      */
-    public function setPerPage($per_page): void
+    public function setPerPage($per_page)
     {
         $this->per_page = $per_page;
     }
@@ -394,7 +394,7 @@ class rpaProcesClass implements rpaProcesClassImpl
     /**
      * @param mixed $id_robot
      */
-    public function setIdRobot($id_robot): void
+    public function setIdRobot($id_robot)
     {
         $this->id_robot = $id_robot;
     }
